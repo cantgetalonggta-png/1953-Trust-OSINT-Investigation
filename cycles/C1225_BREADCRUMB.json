@@ -1,0 +1,26 @@
+{
+  "cycle": 1225,
+  "date": "2026-11-19",
+  "timestamp_et": "2026-11-19T19:19:00-05:00",
+  "status": "process-only negative-control + adjacency",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "last_updated_cl": "2026-11-13T14:38:00",
+    "hearing": "2026-12-02T14:00:00-05:00",
+    "ecf_high": "448 (no 449+ observed)"
+  },
+  "doe_08047": {
+    "last_known_filing": "2026-11-18",
+    "last_updated_cl": "2026-11-19T10:04:00",
+    "recent": "ECF 25 (12 Nov seal denial w/o prejudice); ECF 31 (17 Nov seal grant on PHI)"
+  },
+  "nm_03543": {
+    "filed": "2026-10-21",
+    "residual_cited": ">107M (30 Jun 2026)",
+    "trust_named": true
+  },
+  "accounting": "no 28th observed",
+  "inquiry": "uncharged",
+  "gaps_priority": ["ECF 449+", "08047 RECAP", "PHV", "28th accounting", "NM progress", "inquiry scope"],
+  "next": "post-19 Nov ET / 2 Dec hearing"
+}
