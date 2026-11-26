@@ -1,0 +1,19 @@
+{
+  "cycle": 1414,
+  "date": "2026-11-26",
+  "type": "post-deadline negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1414-2026-11-26.pdf",
+  "key_nodes": [
+    "01204 CL dwell Nov 23 10:24 a.m. no ECF 449+",
+    "Settlement site stamp hold Oct 5",
+    "NM 1:26-cv-03543 waivers + seal order + reassignment to Garcia",
+    "No 28th accounting",
+    "Inquiry still uncharged",
+    "Hearing still 2 Dec 2026 14:00 ET"
+  ],
+  "gaps_priority": ["post-deadline claimant count", "28th accounting", "uncharged inquiry scope", "NM unredacted complaint", "PHV 08047"],
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "drive_file_pdf": "1fJhY-1NJo6qTB7XP_3ICliUITCcVdoeS",
+  "github_md": "https://github.com/cantgetalonggta-png/1953-Trust-OSINT-Investigation/blob/main/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1414-2026-11-26.md",
+  "next": "C1415 later 26 Nov ET or post-2 Dec"
+}
