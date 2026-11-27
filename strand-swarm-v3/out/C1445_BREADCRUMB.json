@@ -1,0 +1,22 @@
+{
+  "cycle": 1445,
+  "timestamp_utc": "2026-11-27T22:17:49Z",
+  "type": "negative-control",
+  "primary_docket": "1:24-cv-01204-AS",
+  "last_cl_update": "2026-11-23 10:24 a.m. ET",
+  "last_known_filing": "ECF 449 (Hofbaver interlocutory appeal, 15 Oct 2026)",
+  "hearing": "2026-12-02 14:00 ET",
+  "settlement_window": "closed 2026-11-23",
+  "new_entities": [],
+  "gaps_priority": [
+    "claimant_count_ratchet",
+    "28th_accounting",
+    "uncharged_sdny_inquiry",
+    "hofbaver_appeal_2dcir_26-2945",
+    "nm_answer_window",
+    "08047_residual"
+  ],
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github_repo": "cantgetalonggta-png/1953-Trust-OSINT-Investigation",
+  "next": "C1446 later 27 Nov ET or post-2 Dec"
+}
