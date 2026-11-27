@@ -1,0 +1,19 @@
+{
+  "cycle": "C1446",
+  "date": "2026-11-27",
+  "time_et": "18:18",
+  "type": "post-deadline negative-control",
+  "status": "process-only",
+  "key_holds": {
+    "ward_hearing": "2026-12-02 14:00 ET",
+    "claim_window_closed": "2026-11-23",
+    "last_known_ecf_ward": "449",
+    "nm_waivers": "ECFs 16-19 19-20 Nov",
+    "08047_phv": "granted 23 Nov ECF 34",
+    "no_28th_accounting": true,
+    "inquiry_uncharged": true
+  },
+  "gaps": ["claimant_count_ratchet", "28th_accounting", "sdny_inquiry_scope", "hofbaver_appeal", "nm_answers", "08047_residual"],
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "C1447 later 27 Nov or post-2 Dec"
+}
