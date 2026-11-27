@@ -1,0 +1,24 @@
+{
+  "cycle": 1442,
+  "timestamp_utc": "2026-11-27T19:18:42Z",
+  "timestamp_et": "2026-11-27T14:18:00-05:00",
+  "type": "post-deadline negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1442-2026-11-27.md",
+  "status": {
+    "ward_01204_last_updated": "2026-11-23 10:24 a.m.",
+    "ward_last_known_filing": "ECF 449 Hofbaver appeal 2026-10-15 / 2d Cir 26-2945",
+    "hearing": "2026-12-02 14:00 ET",
+    "claim_window_closed": "2026-11-23",
+    "settlement_site_stamp": "2026-10-05",
+    "nm_03543_last_updated": "2026-11-22",
+    "nm_last_filings": "ECFs 16-19 waivers 2026-11-19/20",
+    "08047_last_updated": "2026-11-25",
+    "08047_last_filing": "ECF 34 PHV Jean Sutton Martin granted 2026-11-23",
+    "28th_accounting": false,
+    "sdny_inquiry": "uncharged"
+  },
+  "new_entities": [],
+  "gaps_priority": ["claimant_count_ratchet", "28th_accounting", "uncharged_sdny_inquiry", "hofbaver_appeal", "nm_answer_window", "08047_residual"],
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "C1443 later 27 Nov ET or 28 Nov"
+}
