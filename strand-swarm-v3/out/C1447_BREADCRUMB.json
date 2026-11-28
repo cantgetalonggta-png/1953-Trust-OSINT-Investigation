@@ -1,0 +1,36 @@
+{
+  "cycle": "C1447",
+  "date": "2026-11-27",
+  "time_et": "~19:22",
+  "time_utc": "2026-11-28T00:22:34Z",
+  "type": "post-deadline negative-control",
+  "status": "process-only",
+  "key_dockets": {
+    "1:24-cv-01204": {
+      "last_updated": "2026-11-23 10:24 a.m.",
+      "last_known_filing": "2026-10-15 ECF 449 Hofbaver interlocutory appeal from ECF 445",
+      "appeal": "2d Cir. 26-2945",
+      "hearing": "2026-12-02 14:00 ET"
+    },
+    "1:26-cv-03543": {
+      "last_updated": "2026-11-22",
+      "notes": "Waivers of service ECFs 16-19 mid-Nov for Trust/Estate/Indyke/Kahn"
+    },
+    "1:26-cv-08047": {
+      "notes": "PHV Jean Sutton Martin granted 2026-11-23 (Figueredo); last update ~Nov 25"
+    }
+  },
+  "settlement_site": "sdnysettlementfund2026.com — Nov 23 deadlines passed; Dec 2 2:00 p.m. EST hearing",
+  "gaps_priority": [
+    "post-deadline claimant count / $25M-$35M ratchet",
+    "28th accounting",
+    "uncharged SDNY inquiry scope",
+    "Hofbaver 26-2945 status",
+    "NM answer window",
+    "08047 residual"
+  ],
+  "new_entities": [],
+  "next": "C1448 later 27 Nov ET or post-2 Dec",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1447-2026-11-27.pdf"
+}
