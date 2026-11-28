@@ -1,0 +1,21 @@
+{
+  "cycle": "C1466",
+  "date": "2026-11-28",
+  "time_et": "~15:15",
+  "type": "post-deadline negative-control",
+  "cl_01204": {
+    "last_updated": "2026-11-23 10:24 ET",
+    "last_known_filing": "ECF 449 (15 Oct 2026 Hofbaver interlocutory appeal / 2d Cir 26-2945)",
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "nm_03543": {
+    "last_updated": "2026-11-22",
+    "last_known_filing": "2026-11-20"
+  },
+  "adjacent": "Guardian 28 Nov 2026 Bekiempis / Freeman CSAM estate-release concerns; Ruzumna class-scope clarification",
+  "new_entities": [],
+  "gaps_priority": ["claimant count/ratchet", "28th accounting", "uncharged SDNY inquiry", "Hofbaver appeal", "NM answers", "08047 residual"],
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/1953-Trust-OSINT-Investigation",
+  "next": "C1467 later 28 Nov ET or post-2 Dec"
+}
