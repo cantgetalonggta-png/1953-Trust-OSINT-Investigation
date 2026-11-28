@@ -1,0 +1,16 @@
+{
+  "cycle": "C1465",
+  "timestamp_utc": "2026-11-28T19:16:19Z",
+  "timestamp_et": "2026-11-28T14:16:19-05:00",
+  "status": "process-only negative-control post-deadline",
+  "ward_docket": "1:24-cv-01204-AS last updated Nov 23 10:24 a.m.; last known filing ECF 449 Hofbaver interlocutory appeal / 2d Cir 26-2945",
+  "nm_docket": "1:26-cv-03543 waivers of service executed ECFs 16-19 Nov 19-20 for Indyke, Kahn, Estate, 1953 Trust; last updated Nov 22",
+  "settlement_site": "claim/opt-out window closed Nov 23; final hearing 2 Dec 2026 14:00 ET",
+  "new_entities": [],
+  "adjacent": "Guardian 28 Nov 2026 Bekiempis: Freeman (Marsh) concerns on CSAM/estate-release scope; Ruzumna clarification that CSAM-only claims outside class",
+  "gaps_priority": ["post-deadline claimant count/ratchet", "28th accounting", "uncharged SDNY inquiry scope", "Hofbaver appeal status", "NM answer window", "08047 residual"],
+  "hearing": "2 Dec 2026 14:00 ET still set; no final judgment",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "next_cycle": "C1466 later 28 Nov ET or post-2 Dec"
+}
