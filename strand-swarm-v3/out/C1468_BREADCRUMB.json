@@ -1,0 +1,23 @@
+{
+  "cycle": 1468,
+  "timestamp_utc": "2026-11-28T21:16:45Z",
+  "timestamp_et": "2026-11-28T16:16:00-05:00",
+  "type": "post-deadline negative-control",
+  "cl_01204": {
+    "last_updated": "2026-11-23 10:24 a.m. ET",
+    "last_known_filing": "ECF 449 (15 Oct 2026) Hofbaver interlocutory appeal from ECF 445",
+    "hearing": "2026-12-02 14:00 ET Courtroom 15A",
+    "claim_window_closed": "2026-11-23"
+  },
+  "nm_03543": {
+    "status": "waivers executed mid-late Nov; no major new",
+    "trust_role": "asset holder / relief target"
+  },
+  "adjacent": {
+    "guardian_28nov": "Bekiempis on CSAM/estate-release concerns; Freeman objection; Ruzumna class clarification (CSAM-only outside class)",
+    "newsmax_28nov": "Final hearing 2 Dec; $25-35M ratchet; Freeman CSAM separate action"
+  },
+  "gaps": ["claimant_count_ratchet", "28th_accounting", "uncharged_sdny_inquiry", "hofbaver_appeal", "nm_answers", "08047_residual"],
+  "new_entities": [],
+  "next": "C1469 later 28 Nov ET or post-2 Dec"
+}
